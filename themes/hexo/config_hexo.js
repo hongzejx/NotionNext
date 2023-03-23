@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['Hi，我们从事二手印刷包装设备改造升级、销售服务', '需要二手包装设备请联系我们/TEL:13963633210', '欢迎来到我们的网站🎉'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['Hi，我们从事二手印刷包装设备改造升级、销售服务', '需要二手包装设备请联系我们', '欢迎来电咨询-TEL:13963633210🎉'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
   HOME_NAV_BACKGROUND_IMG_FIXED: true, // 首页背景图滚动时是否固定，true 则滚动时图片不懂； false则随鼠标滚动
