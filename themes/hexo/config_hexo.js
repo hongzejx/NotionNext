@@ -10,7 +10,7 @@ const CONFIG_HEXO = {
   MENU_CATEGORY: true, // 显示分类
   MENU_TAG: true, // 显示标签
   MENU_ARCHIVE: true, // 显示归档
-  MENU_SEARCH: true, // 显示搜索
+  MENU_SEARCH: false, // 显示搜索
 
   POST_LIST_COVER: true, // 列表显示文章封面
   POST_LIST_COVER_DEFAULT: false, // 封面为空时用站点背景做默认封面
