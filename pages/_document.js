@@ -16,6 +16,7 @@ class MyDocument extends Document {
           <link rel='icon' href='/favicon.ico' />
           <CommonScript />
           <meta name="baidu-site-verification" content="codeva-F4Gl99qyUD" />
+          <meta name="sogou_site_verification" content="YVXABcJq66" />
         </Head>
 
         <body className={`${BLOG.FONT_STYLE} font-light bg-day dark:bg-night`}>
