@@ -16,7 +16,6 @@ class MyDocument extends Document {
           <link rel='icon' href='/favicon.ico' />
           <CommonScript />
           <meta name="baidu-site-verification" content="codeva-F4Gl99qyUD" />
-          <meta http-equiv="Content-Type" content="text/html;charset=gb2312" />
           <meta name="sogou_site_verification" content="CEwXrLcfPy" />
         </Head>
 
